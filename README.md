@@ -4,5 +4,7 @@ myftp project from Epitech
 $> make fclean && make re
 # Execution
 $> ./server port path
+
 port: Port to use for sockets
+
 path: Initial path
